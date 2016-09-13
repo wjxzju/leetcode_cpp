@@ -6,7 +6,7 @@ using namespace std;
 int main(void)
 {
 	vector<int> nums = { 10,1,2,7,6,1,5};
-	vector<vector<int>> res = Solution::combinationSum2(nums, 7);
+	vector<vector<int>> res = Solution::combinationSum2(nums, 8);
 
 	cout << "------------------------------------------" << endl;
 
