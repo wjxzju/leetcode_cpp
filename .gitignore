@@ -28,8 +28,17 @@
 *.out
 *.app
 
+# Visual Studio
 *.opensdf
 *.sdf
 *.suo
 *.sln
-
+*.ilk
+*.pdb
+*.exe
+*.tlog
+*.idb
+*.pdb
+*.log
+*.vcxproj
+*.vcxproj.filters
