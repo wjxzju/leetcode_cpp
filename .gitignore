@@ -27,3 +27,9 @@
 *.exe
 *.out
 *.app
+
+*.opensdf
+*.sdf
+*.suo
+*.sln
+
