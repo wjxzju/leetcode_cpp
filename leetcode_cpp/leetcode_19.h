@@ -18,7 +18,7 @@ public:
 		ListNode* p1, *p2;
 		p1 = head;
 		p2 = head;
-		for (size_t i = 0; i < n; i++)
+		for (size_t i = 0; i < n-1; i++)
 			p2 = p2->next;
 
 		ListNode* pre = NULL;
